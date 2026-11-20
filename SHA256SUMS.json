@@ -4,7 +4,7 @@
   "LICENSE-PSFree.txt": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
   "UPDATE-2026-11-16.md": "0af91a08362b4cdd120a708f0d230f0657141febd8bcc8d9e9eaa180b42fb267",
   "credits.html": "3ae86befcc66845fcddab72c65f6f3aa535595b0ae3a0f34aa0610dc9275d646",
-  "offline.appcache": "9625ea8f91b1193465ec654394490f269376461195fe886ce28d8ce5d5ba5c19",
+  "offline.appcache": "f04e8df9d0169de0b693578b9470205b97dde90d2f0285685b958fdb765cdebb",
   "index.html": "d3d13c8cce2d4f47a6b7c0392ac459755cbc44bbccab0a12e13596be1d91feb9",
   "UPDATE-2026-11-08.md": "3fd138eb341b83dd94cafc2a803bfb8d7027eef8ec8d5db8c270113357679897",
   "SOURCE-README.md": "9041f7d7c97b5c27f2baafad4155bbd12e821e5ffeb51224740293702e833f2d",
@@ -21,7 +21,7 @@
   "host/cache.js": "7901ec4e698f71ff1925f592db6f5ebe89349c5f75856342556cd78e733140aa",
   "host/guard.js": "359a6eede587ca98b0771fe6537ad24e3130094f3787d59195b549f93bab5d98",
   "tests/ps4-routing-cache.cjs": "e26718f5fced6772ad4db1d7da3daaed9e9db92839cc2c9ad7558708bbd5a164",
-  "assets/mustafa.js": "7ab30e418afe83479fa6c076f3b991832841054ecdc6e3a9177e269e467a6e70",
+  "assets/mustafa.js": "dfd8d2c45d012ee78bbc119aaf3e3092b74ee0e6f269c17bd2ce3088b3f71a4d",
   "assets/mustafa-interface.png": "4528eb4be2a7e840d483fbba25ca9e548e205489aec9e164d52ff55670db2920",
   "assets/style.css": "7b0f7acb854a54c1765f7923cec985874150df96290012678f9db8f46756d6a3",
   "assets/app.js": "890488c8cbb7fa58d03f21f9a926677ad597137ede401a6f1ebc03efb9579df2",
@@ -141,6 +141,5 @@
   "host/ps4-13/patches/1352.bin": "adfb9771904f71cd1f5a82cbded8ac46c7ffeb3df974579535cf711904ac347e",
   "host/raw13g/patches/1350.bin": "f771c196d012496c01f575674e95a74d7b00b7c1bc22325c7321f3ab6eb77b56",
   "host/raw13g/patches/1302.bin": "235a051f5a066daa546253de6eb61c1223a2682cb34edd916fc4565bb2c02fc6",
-  "host/raw13g/patches/1352.bin": "adfb9771904f71cd1f5a82cbded8ac46c7ffeb3df974579535cf711904ac347e",
-  ".github/workflows/install-site.yml": "c296323e2c53ef243b64184d3217deb600d9f0a2f066cb4ac443571914932354"
+  "host/raw13g/patches/1352.bin": "adfb9771904f71cd1f5a82cbded8ac46c7ffeb3df974579535cf711904ac347e"
 }
